@@ -1,5 +1,5 @@
 # Written by Ethan Burrell Fall 2018
-This folder contains a lot of the work that I have done for the zillow project
+This folder contains a lot of the work that I have done for the Zillow conversion project
 
 
 Combining Transaction and Assessment Data How-to Guide.ipynb is a legacy document, it should not be used for conversions anymore. A better method is documented in sqlite_documentation.md
